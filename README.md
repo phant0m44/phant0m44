@@ -136,7 +136,6 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 > **Telegram:** [@VitaliyS44](https://t.me/VitaliyS44) — for collaboration, questions, or just chatting about tech.
 >
-> **GitHub Issues** — for bugs, ideas, or contributions to specific projects.
 
 ---
 
