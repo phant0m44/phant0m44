@@ -1,10 +1,5 @@
 <div align="center">
 
-```
-┌─[phant0m44@arch]─[~/]
-└──╼ $ whoami
-```
-
 # Vitaliy · phant0m44
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Developer;IoT+%2F+Linux+%2F+Embedded+Systems;AI+Automation+%26+API+Integration;Building+tools+that+just+work.)](https://git.io/typing-svg)
