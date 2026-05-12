@@ -144,8 +144,6 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 </div>
 
 ---
-
----
 <!-- 
 
 <div align="center">
