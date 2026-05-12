@@ -84,8 +84,8 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 | :--- | :--- |
 | **Backend** | REST APIs, CLI tools, server-side automation |
 | **DevOps** | Docker setups, Linux system configs, basic CI/CD |
-| **IoT & Embedded** | ESP32/Raspberry Pi based projects, sensor systems, custom firmware |
-| **AI Integration** | LLM pipelines via API or local models, everyday automation |
+| **IoT & Embedded** | ESP32/Raspberry Pi based projects, sensor systems, custom firmware, smart home systems |
+| **AI Integration** | LLM pipelines via API or local models, everyday automation, building voice agents |
 | **Tooling** | Small CLI utilities, scripts that save much of time |
 
 ## 📚 Currently Learning
