@@ -122,9 +122,9 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 <div align="center">
 
-![phant0m44's GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=phant0m44&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)
+![phant0m44's GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=phant0m44&show_icons=true&count_private=true&line_height=20&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
 
-![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=phant0m44&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
+![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=phant0m44&layout=compact&count_private=true&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=phant0m44&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
