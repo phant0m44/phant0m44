@@ -130,10 +130,6 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=phant0m44&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
-
-</div>
-
 ---
 
 ## 📬 Contact
