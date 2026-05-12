@@ -144,7 +144,6 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 </div>
 
 ---
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
