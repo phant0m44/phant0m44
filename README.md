@@ -147,13 +147,10 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 ---
 
 ---
+<!-- 
 
 <div align="center">
 
-```
-┌─[phant0m44@arch]─[~/]
-└──╼ $ whoami
-```
 
 # Віталій · phant0m44
 
@@ -297,3 +294,4 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 <div align="center">
   <sub><em>Всі проєкти створені для навчання, автоматизації та задоволення.</em></sub>
 </div>
+-->
