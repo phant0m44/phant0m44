@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vitaliy · phant0m44
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+there,+I'm+Vitaliy+%F0%9F%91%8B;Hello+there,+I'm+phant0m+%F0%9F%91%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Developer;IoT+%2F+Linux+%2F+Embedded+Systems;AI+Automation+%26+API+Integration;Building+tools+that+just+work.)](https://git.io/typing-svg)
+[![Typing SVG Roles](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Developer;IoT+%2F+Linux+%2F+Embedded+Systems;AI+Automation+%26+API+Integration;Building+tools+that+just+work.)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@VitaliyS44-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/VitaliyS44)
 [![GitHub](https://img.shields.io/badge/GitHub-phant0m44-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phant0m44)
@@ -78,6 +78,21 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 ---
 
+## 📈 Skills & Languages
+
+**Technical Proficiency:**
+- **Intermediate:** Python
+- **Beginner-Intermediate:** HTML / CSS / JS
+- **Beginner:** C / C++
+
+**Spoken Languages:**
+- 🇺🇦 **Ukrainian:** Native
+- 🇬🇧 **English:** Pre-Intermediate (A2-B1)
+- 🇩🇪 **German:** Beginner (Basic phrases)
+- 🇯🇵 **Japanese:** Beginner (Learned the alphabet)
+
+---
+
 ## 🎯 Focus Areas
 
 | Domain | What I Build |
@@ -141,12 +156,12 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 ---
 
 <div align="center">
-  <sub><em>All projects are built for learning, automation, and fun.</em></sub>
+  <sub><em>All projects are built for learning, automation, and fun.</em></sub>
 </div>
 
 ---
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 
@@ -164,16 +179,13 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 
 
-
-
-<!-- 
+<!-- 
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=Привіт,+я+Віталій+%F0%9F%91%8B;Привіт,+я+phant0m+%F0%9F%91%BB)](https://git.io/typing-svg)
 
-# Віталій · phant0m44
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+розробник;IoT+%2F+Linux+%2F+Вбудовані+системи;AI+автоматизація+%26+API+інтеграції;Будую+інструменти+що+просто+працюють.)](https://git.io/typing-svg)
+[![Typing SVG Roles](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+розробник;IoT+%2F+Linux+%2F+Вбудовані+системи;AI+автоматизація+%26+API+інтеграції;Будую+інструменти+що+просто+працюють.)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@VitaliyS44-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/VitaliyS44)
 [![GitHub](https://img.shields.io/badge/GitHub-phant0m44-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phant0m44)
@@ -248,6 +260,21 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 ---
 
+## 📈 Навички та Мови
+
+**Технічні навички:**
+- **Середній / Достатній:** Python
+- **Початковий-середній:** HTML / CSS / JS
+- **Початковий:** C / C++
+
+**Мови спілкування:**
+- 🇺🇦 **Українська:** Носій
+- 🇬🇧 **Англійська:** A2-B1
+- 🇩🇪 **Німецька:** Початківець (базові фрази)
+- 🇯🇵 **Японська:** Початківець (вивчив абетку)
+
+---
+
 ## 🎯 Напрямки
 
 | Область | Що будую |
@@ -292,9 +319,9 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 <div align="center">
 
-![phant0m44's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phant0m44&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9)
+![phant0m44's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phant0m44&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phant0m44&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phant0m44&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C&text_color=c9d1d9)
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=phant0m44&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
@@ -311,6 +338,6 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 ---
 
 <div align="center">
-  <sub><em>Всі проєкти створені для навчання, автоматизації та задоволення.</em></sub>
+  <sub><em>Всі проєкти створені для навчання, автоматизації та задоволення.</em></sub>
 </div>
 -->
