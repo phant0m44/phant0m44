@@ -89,7 +89,7 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 - 🇺🇦 **Ukrainian:** Native
 - 🇬🇧 **English:** Pre-Intermediate (A2-B1)
 - 🇩🇪 **German:** Beginner (Basic phrases)
-- 🇯🇵 **Japanese:** Beginner (Learned the alphabet)
+- 🇯🇵 **Japanese:** Beginner (Learned the full alphabet and basic phrases)
 
 ---
 
