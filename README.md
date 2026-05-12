@@ -122,9 +122,13 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 <div align="center">
 
-![phant0m44's GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=phant0m44&show_icons=true&count_private=true&line_height=20&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
+![phant0m44's GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=phant0m44&show_icons=true&count_private=true&line_height=20&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)&nbsp;&nbsp;![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=phant0m44&layout=compact&count_private=true&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
 
-![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=phant0m44&layout=compact&count_private=true&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0a0f1e)
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=phant0m44&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
+
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=phant0m44&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
@@ -147,6 +151,24 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 
 <div align="center">
