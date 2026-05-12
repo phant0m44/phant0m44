@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+there,+I'm+Vitaliy+%F0%9F%91%8B;Hello+there,+I'm+phant0m+%F0%9F%91%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+there,+I'm+Vitaliy+%F0%9F%91%8B;Hello+there,+I'm+phant0m44)](https://git.io/typing-svg)
 
 [![Typing SVG Roles](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Developer;IoT+%2F+Linux+%2F+Embedded+Systems;AI+Automation+%26+API+Integration;Building+tools+that+just+work.)](https://git.io/typing-svg)
 
