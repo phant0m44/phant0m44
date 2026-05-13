@@ -160,6 +160,7 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phant0m44&label=Profile%20views&color=0e75b6&style=flat" alt="phant0m44" /> </p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
