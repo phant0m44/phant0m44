@@ -164,7 +164,7 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=phant0m44&label=Profile%20views&color=0e75b6&style=flat" alt="phant0m44" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=phant0m44&label=Profile%20views&color=0e75b6&style=flat" alt="phant0m44" /> </p> -->
 
 
 
