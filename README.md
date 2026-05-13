@@ -116,21 +116,21 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 ### 🏠 Smart Home & IoT
 
-- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) — Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)*
+- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) - Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)*
 
 ### 🌐 Web & Infra
 
-- 🐧 [**EasyLinux**](https://github.com/phant0m44/EasyLinux) — Web app for temporary Linux terminals based on Docker and Flask. *(JavaScript)*
+- 🐧 [**EasyLinux**](https://github.com/phant0m44/EasyLinux) - Web app for temporary Linux terminals based on Docker and Flask. *(JavaScript)*
 
 ### 🤖 Bots & Automation
 
-- ⚡ [**Toe-parsing-tg-bot**](https://github.com/phant0m44/Toe-parsing-tg-bot) — Telegram bot that parses electricity outage data for Ukraine. *(Python)*
+- ⚡ [**Toe-parsing-tg-bot**](https://github.com/phant0m44/Toe-parsing-tg-bot) - Telegram bot that parses electricity outage data for Ukraine. *(Python)*
 
 ### 🛠️ Tooling & Misc
 
-- ⚙️ [**dotfiles**](https://github.com/phant0m44/dotfiles) — My personal hyprland configs based on end-4. *(custom configs)*
+- ⚙️ [**dotfiles**](https://github.com/phant0m44/dotfiles) - My personal hyprland configs based on end-4. *(custom configs)*
 
-> *More private projects in progress — stay tuned.*
+> *More private projects in progress - stay tuned.*
 
 ---
 
@@ -150,7 +150,7 @@ If you want to collaborate, contribute, or just talk tech - text me on Telegram.
 
 ## 📬 Contact
 
-> **Telegram:** [@VitaliyS44](https://t.me/VitaliyS44) — for collaboration, questions, or just chatting about tech.
+> **Telegram:** [@VitaliyS44](https://t.me/VitaliyS44) - for collaboration, questions, or just chatting about tech.
 >
 
 ---
