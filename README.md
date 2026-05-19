@@ -13,7 +13,7 @@
 
 > **Note:** Some repos are private - actively building new innovations. Still reachable via Telegram.
 
-Ukrainian 🇺🇦 · Working primarily on **backend systems**, **DevOps pipelines**, **IoT/embedded devices**, and **AI automation**.
+Hi, I'm Vitaliy! A 17yo college student from Ukraine 🇺🇦. I'm Working primarily on **backend systems**, **DevOps pipelines**, **IoT/embedded devices**, and **AI automation**.
 
 **Focus:** Python, C/C++, Docker, Linux · **Exploring:** Rust, distributed systems, edge computing
 
