@@ -120,7 +120,8 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 
 ### 🌐 Web & Infra
 
-- 🐧 [**EasyLinux**](https://github.com/phant0m44/EasyLinux) - Web app for temporary Linux terminals in your browser based on Docker and Flask. *(JavaScript)*
+- 🐧 [**EasyLinux**](https://github.com/phant0m44/EasyLinux) - Web app for temporary Linux terminals in your browser based on Docker and Flask. *(JavaScript, docker)*
+- 🎁 [**Gifty**](https://gifty.pp.ua) - The social wishlist web app for sharing ideas with friends and automatically track profitable deals. *(Python, HTML/JS/CSS, SQL)* <sub>(❌ temporarily closed development ❌)</sub> 
 
 ### 🤖 Bots & Automation
 
