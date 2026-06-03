@@ -116,7 +116,7 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 
 ### 🏠 Smart Home & IoT
 
-- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) - Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)*
+- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) - Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)* <sub>(❌ closed development ❌)</sub>
 
 ### 🌐 Web & Infra
 
