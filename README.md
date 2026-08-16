@@ -11,7 +11,7 @@
 
 ---
 
-> **Note:** Some of my repositories are private while I'm actively working on them, but I'm always open for a chat via Telegram.
+> **Note:** Some of my repositories are private while I'm actively working on them, but I'm always open for a chat via Telegram or Mail.
 
 Hi, I'm Vitaliy! A 17yo college student from Ukraine 🇺🇦. I'm Working primarily on **backend systems**, **DevOps pipelines**, **IoT/embedded devices**, and **AI automation**.
 
@@ -89,7 +89,6 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 - 🇺🇦 **Ukrainian:** Native
 - 🇬🇧 **English:** Pre-Intermediate (A2-B1)
 - 🇩🇪 **German:** Beginner
-- 🇯🇵 **Japanese:** Beginner
 
 ---
 
@@ -116,12 +115,12 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 
 ### 🏠 Smart Home & IoT
 
-- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) - Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)* <sub>(❌ closed development ❌)</sub>
+- 🔗 [**MarvinLink**](https://github.com/phant0m44/MarvinLink) - Open-source smart home platform on Orange Pi Zero 3. Python/Flask backend, REST API, ESP32 sensor nodes, web dashboard, voice control + GPT integration. *(Python, C for ESP32, HTML/JS/CSS)* <sub>(❌ closed source code ❌)</sub>
 
 ### 🌐 Web & Infra
 
 - 🐧 [**EasyLinux**](https://github.com/phant0m44/EasyLinux) - Web app for temporary Linux terminals in your browser based on Docker and Flask. *(JavaScript, docker)*
-- 🎁 [**Gifty**](https://gifty.pp.ua) - The social wishlist web app for sharing ideas with friends and automatically track profitable deals. *(Python, HTML/JS/CSS, SQL)* <sub>(❌ closed development ❌)</sub> 
+- 🎁 [**Gifty**](https://gifty.pp.ua) - The social wishlist web app for sharing ideas with friends and automatically track profitable deals. *(Python, HTML/JS/CSS, SQL)* <sub>(❌ closed source code ❌)</sub> 
 
 ### 🤖 Bots & Automation
 
@@ -151,7 +150,7 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 
 ## 📬 Contact
 
-> **Telegram:** [@VitaliyS44](https://t.me/VitaliyS44) - for collaboration, questions, or just chatting about tech.
+> **Mail:** [slivinskiy16@gmail.com](mailto:slivinskiy16@://gmail.com) - for collaboration, questions, or just chatting about tech.
 >
 
 ---
